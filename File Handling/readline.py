@@ -1,0 +1,12 @@
+f = open("C:/Users/kasi/PycharmProjects/pythonProjectTest/File Handling/testfile.txt", "r")
+print(f.readline())
+f.close()
+print("**********read all lines*******************")
+f = open("C:/Users/kasi/PycharmProjects/pythonProjectTest/File Handling/testfile.txt", "r")
+print(f.readlines())
+f.close()
+print("**********read 3rd line*******************")
+f = open("C:/Users/kasi/PycharmProjects/pythonProjectTest/File Handling/testfile.txt", "r")
+print(f.readlines(3))
+f.close()
+
