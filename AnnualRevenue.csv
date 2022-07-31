@@ -1,0 +1,20 @@
+Year,Industry_aggregation_NZSIOC,Industry_code_NZSIOC,Industry_name_NZSIOC,Units,Variable_code,Variable_name,Variable_category,Value,Industry_code_ANZSIC06
+2021,Level 1,99999,All industries,Dollars ,H01,a,Financial,"7,57,504",K6330
+2021,Level 1,99999,All industries,Dollars ,H04,a,Financial,"6,74,890", L6711
+,,,,Dollars ,,a,Financial,, O7552
+2021,Level 1,99999,All industries,Dollars ,H07,a,Financial,"33,020", O760
+2021,Level 1,99999,All industries,Dollars ,H08,a,Financial,"6,54,404", O771
+2021,Level 1,99999,All industries,Dollars ,H09,a,Financial,"26,138", O772
+2021,Level 1,99999,All industries,Dollars ,H10,a,Financial,"6,991",S9540
+2021,Level 1,99999,All industries,Dollars ,H11,a,Financial,"27,801", S9601
+2021,Level 1,99999,All industries,Dollars ,H12,a,Financial,"1,23,620",S9602
+2021,Level 1,99999,All industries,Dollars ,H13,a,Financial,275,S9612
+2021,Level 1,99999,All industries,Dollars ,H14,a,Financial,"2,085", O771
+2021,Level 1,99999,All industries,Dollars ,H19,a,Financial,"4,52,963", O772
+2021,Level 1,99999,All industries,Dollars ,H20,a,Financial,"14,806",S9540
+2021,Level 1,99999,All industries,Dollars ,H21,a,Financial,"68,896", S9601
+2021,Level 1,99999,All industries,Dollars ,H22,a,Financial,"69,127",S9602
+2021,Level 1,99999,All industries,Dollars ,H23,a,Financial,"1,03,330",S9612
+,,,,,,,,,
+2021,Level 1,99999,All industries,Dollars ,H25,a,Financial,"7,30,587",ANZSIC06
+,,,,,,,,,
